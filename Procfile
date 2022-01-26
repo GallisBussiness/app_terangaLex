@@ -1,0 +1,1 @@
+web: npm install && npx directus start
